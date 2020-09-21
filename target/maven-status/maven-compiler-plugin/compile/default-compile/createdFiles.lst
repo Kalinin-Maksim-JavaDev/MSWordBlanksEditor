@@ -1,0 +1,15 @@
+ru\rgsbank\cicada\beans\printForms\Form.class
+ru\rgsbank\cicada\servlet\printForms\FormSelector.class
+ru\rgsbank\cicada\beans\printForms\Forms.class
+ru\rgsbank\cicada\servlet\Manager.class
+ru\rgsbank\cicada\servlet\printForms\pages\NewForm.class
+ru\rgsbank\cicada\servlet\printForms\actions\Print.class
+ru\rgsbank\cicada\servlet\printForms\gets\FindByName$Select2Item.class
+ru\rgsbank\cicada\beans\printForms\FieldImpl.class
+ru\rgsbank\cicada\servlet\printForms\gets\FindByName.class
+ru\rgsbank\cicada\beans\printForms\Form$Field.class
+ru\rgsbank\cicada\servlet\util\Downloader.class
+ru\rgsbank\cicada\servlet\util\Persistablle.class
+ru\rgsbank\cicada\servlet\printForms\pages\FormPage.class
+ru\rgsbank\cicada\beans\printForms\FormImpl.class
+ru\rgsbank\cicada\servlet\printForms\actions\Save.class
